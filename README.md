@@ -1,4 +1,4 @@
-# 🏄‍♂️ Edwin Trinidad Navarro
+# 🩻Edwin Trinidad Navarro
 
 **`Student Engineer (Developer/Creator)`**
 
