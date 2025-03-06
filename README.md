@@ -2,7 +2,7 @@
 
 **`Student Engineer (Developer/Creator)`**
 
-I'm an aspiring software engineer currently a junior at The Ohio State University. 
+I'm an junior software engineer currently a junior at The Ohio State University. 
 
 ### 🧰 Languages and Tools
 
